@@ -4,7 +4,9 @@ I’m currently learning
 
 * REACT
 * REACT-NATIVE
-* ASP.NET(dotnet).  
+* ASP.NET(dotnet)
+* HTML
+* CSS
 
 
 [img1]: /ruta/a/la/imagen.jpg "Título alternativo"
