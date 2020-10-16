@@ -1,6 +1,9 @@
 # Hi my name is kevin 👋
 I am from ECUADORIAN nationality, I’m currently studied on in universidad santiago de cali, 
-I’m currently learning REACT, REACT-NATIVE, ASP.NET(dotnet).  
+I’m currently learning 
+*REACT
+*REACT-NATIVE
+*ASP.NET(dotnet).  
 
 
 [img1]: /ruta/a/la/imagen.jpg "Título alternativo"
