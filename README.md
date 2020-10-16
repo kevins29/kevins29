@@ -1,5 +1,6 @@
-### Hi there my name is kevin 👋
-I AM FROM ECUADORIAN NATIONALITY, I’m currently studied on in universidad santiago de cali
+### Hi my name is kevin 👋
+I am from ECUADORIAN nationality, I’m currently studied on in universidad santiago de cali
+I’m currently learning REACT, REACT-NATIVE, ASP.NET(dotnet)  
 <!--
 **kevins29/kevins29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
