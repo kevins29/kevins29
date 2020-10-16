@@ -8,8 +8,7 @@ I’m currently learning
 * HTML
 * CSS
 
-
-[img1]: /ruta/a/la/imagen.jpg "Título alternativo"
+![](icono-kevin.png)
 <!--
 **kevins29/kevins29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
