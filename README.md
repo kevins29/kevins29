@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is kevin,I’m currently studies on in universidad santiago de cali 👋
 
 <!--
 **kevins29/kevins29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
