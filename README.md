@@ -8,7 +8,7 @@ I’m currently learning
 * HTML
 * CSS
 
-![](icono-kevin.png)
+![](kevins29/icono.kevin.png)
 <!--
 **kevins29/kevins29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
