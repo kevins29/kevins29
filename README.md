@@ -4,7 +4,7 @@ I am from ECUADORIAN nationality, I’m currently studied on in universidad sant
 
 * REACT
 * REACT-NATIVE
-* ASP.NET(dotnet)
+* ASP.NET
 * HTML
 * CSS
 
