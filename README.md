@@ -8,7 +8,7 @@ I am from ECUADORIAN nationality, I’m currently studied on in universidad sant
 * HTML
 * CSS
 
- ![](kevins29/icono.kevin.png)
+![icono kevin](https://user-images.githubusercontent.com/63414462/100250580-d1723280-2f0b-11eb-850a-396261177e94.png)
 <!--
 **kevins29/kevins29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
